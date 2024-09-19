@@ -3,16 +3,27 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
+Alvaro Martinez
+Git Link: https://github.com/AlvaroMartinezM
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Danny brito
+Git Link: https://github.com/danny031103 
+
+Jun Li
+Git Link: https://github.com/jljune9li 
+
+Natalie Ovcarov
+Git Link: https://github.com/nataliovcharov
 
 ## Stakeholders
+
+Jahleel Townsend: 
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our mobile app enhances student life by offering a platform where students can conveniently find and hire peers for various tasks.
 
 ## User Requirements
 
