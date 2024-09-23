@@ -45,6 +45,8 @@ Our mobile app enhances student life by offering a platform where students can c
 
 ## Activity Diagrams
 
+## Activity Diagram 2: As a student, I want to rent a textbook so that I don’t have to use a digital copy.
+![alt text](image.png)
 
 
 ## Clickable Prototype
