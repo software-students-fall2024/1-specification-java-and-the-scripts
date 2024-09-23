@@ -4,15 +4,17 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 Alvaro Martinez
+
 Git Link: https://github.com/AlvaroMartinezM
 
-Daniel Brito
+Danny brito
 Git Link: https://github.com/danny031103 
 
-June Li
+Jun Li
 Git Link: https://github.com/jljune9li 
 
 Natalie Ovcarov
+
 Git Link: https://github.com/nataliovcharov
 
 ## Stakeholders
@@ -40,9 +42,10 @@ Our mobile app enhances student life by offering a platform where students can c
 11. As a student, I want to offer moving help so I can earn extra money from those who need help carrying heavy items.
 
 ## Activity Diagrams
-
-See instructions. Delete this line and place images of your UML Activity diagrams here.
-
+### Activity Diagram 1: As a student, I want to make extra money so that I can pay rent.
+![alt text](user1.png)
+### Activity Diagram 2: As a student, I want to rent a textbook so that I don’t have to use a digital copy.
+![alt text](image-1.png)
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
