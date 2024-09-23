@@ -44,7 +44,7 @@ Our mobile app enhances student life by offering a platform where students can c
 11. As a student, I want to offer moving help so I can earn extra money from those who need help carrying heavy items.
 
 ## Activity Diagrams
-## Activity Diagram 1: As a student, I want to rent a textbook so that I don’t have to use a digital copy.
+## Activity Diagram 1: As a student, I want to make extra money so that I can pay rent.
 ![alt text](activitydiagram1.png)
 ## Activity Diagram 2: As a student, I want to rent a textbook so that I don’t have to use a digital copy.
 ![alt text](image.png)
