@@ -45,7 +45,7 @@ Our mobile app enhances student life by offering a platform where students can c
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+
 
 ## Clickable Prototype
 
