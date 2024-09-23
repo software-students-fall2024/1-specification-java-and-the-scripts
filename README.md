@@ -6,10 +6,10 @@ A little exercise to get started with the specification phase of the software de
 Alvaro Martinez
 Git Link: https://github.com/AlvaroMartinezM
 
-Danny brito
+Daniel Brito
 Git Link: https://github.com/danny031103 
 
-Jun Li
+June Li
 Git Link: https://github.com/jljune9li 
 
 Natalie Ovcarov
