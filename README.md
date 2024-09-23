@@ -20,8 +20,10 @@ Git Link: https://github.com/nataliovcharov
 ## Stakeholders
 
 Jahleel Townsend: 
-
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Goals: Get help with daily tasks during the semester, especially during exams or other busy periods. Save money and time.
+Needs: Cheap prices to meet student budget. NYU student help rather than larger NYC community.
+Frustrations: Current Services (doordash,taskrabbit,etc) are too expensive.
+Problems: Security Concern: better to allow an NYU student into my home rather than a random person.
 
 ## Product Vision Statement
 
