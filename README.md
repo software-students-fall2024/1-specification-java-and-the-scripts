@@ -49,4 +49,9 @@ Our mobile app enhances student life by offering a platform where students can c
 ### Activity Diagram 2: As a student, I want to make extra money so that I can pay rent.
 ![alt text](image-2.png)
 ## Clickable Prototype
+The way we built the flow to show the user and tasker flow:
+## Example Tasker Flow: ##
+We assume the tasker doesn't have an account and chooses to register as a tasker. Then, goes to the home page and chooses to rent a book.
+## Example User Flow: ##
+We assume the user already has an account, so if you click the "log in" button, the prototype shows the user flow
 https://www.figma.com/proto/x2JhHpZTehmD7ZdGMTlu7I/SEprojectwireframe?node-id=0-1&t=jdBQfUi0t9potZVz-1
