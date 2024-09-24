@@ -55,4 +55,4 @@ We assume the tasker doesn't have an account and chooses to register as a tasker
 #### Example User Flow: ##
 We assume the user already has an account, so if you click the "log in" button, the prototype shows the user flow
 
-https://www.figma.com/proto/x2JhHpZTehmD7ZdGMTlu7I/SEprojectwireframe?node-id=0-1&t=jdBQfUi0t9potZVz-1
+[Clickable Prototype][https://www.figma.com/proto/x2JhHpZTehmD7ZdGMTlu7I/SEprojectwireframe?node-id=0-1&t=jdBQfUi0t9potZVz-1]
