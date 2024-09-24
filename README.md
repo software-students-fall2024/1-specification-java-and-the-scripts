@@ -49,5 +49,4 @@ Our mobile app enhances student life by offering a platform where students can c
 ### Activity Diagram 2: As a student, I want to make extra money so that I can pay rent.
 ![alt text](image-2.png)
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/x2JhHpZTehmD7ZdGMTlu7I/SEprojectwireframe?node-id=0-1&t=jdBQfUi0t9potZVz-1
