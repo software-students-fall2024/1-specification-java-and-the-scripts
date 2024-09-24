@@ -50,8 +50,9 @@ Our mobile app enhances student life by offering a platform where students can c
 ![alt text](image-2.png)
 ## Clickable Prototype
 The way we built the flow to show the user and tasker flow:
-## Example Tasker Flow: ##
+#### Example Tasker Flow: ##
 We assume the tasker doesn't have an account and chooses to register as a tasker. Then, goes to the home page and chooses to rent a book.
-## Example User Flow: ##
+#### Example User Flow: ##
 We assume the user already has an account, so if you click the "log in" button, the prototype shows the user flow
+
 https://www.figma.com/proto/x2JhHpZTehmD7ZdGMTlu7I/SEprojectwireframe?node-id=0-1&t=jdBQfUi0t9potZVz-1
