@@ -11,16 +11,25 @@ A little exercise to get started with the specification phase of the software de
 
 [Jun Li](https://github.com/jljune9li )
 
-
-
-
 ## Stakeholders
 
-Jahleel Townsend: 
-Goals: Get help with daily tasks during the semester, especially during exams or other busy periods. Save money and time.
-Needs: Cheap prices to meet student budget. NYU student help rather than larger NYC community.
-Frustrations: Current Services (doordash,taskrabbit,etc) are too expensive.
-Problems: Security Concern: better to allow an NYU student into my home rather than a random person.
+**Stakeholder: Jahleel Townsend**
+
+### Goals: 
+-Get help with daily tasks during the semester, especially during exams or other busy periods. 
+-Save money and time.
+-Connect with new people within the NYU community.
+
+### Needs: 
+-Cheap prices to meet student budget. 
+-NYU student help rather than larger NYC community.
+
+### Frustrations: 
+-Current Services (doordash,taskrabbit,etc) are too expensive.
+-There are no existing ways to reach out to random NYU students for help on tasks.
+
+### Problems: 
+-Security Concern: better to allow an NYU student into my home rather than a random person.
 
 ## Product Vision Statement
 
