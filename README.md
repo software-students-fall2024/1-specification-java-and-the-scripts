@@ -13,7 +13,8 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-**Stakeholder: Jahleel Townsend**
+### Stakeholder: Jahleel Townsend
+
 We interviewed Jahleel Townsend, a senior studying Computer Science at NYU, since he is representative of our target users.
 
 ### Goals: 
