@@ -47,6 +47,6 @@ Our mobile app enhances student life by offering a platform where students can c
 ### Activity Diagram 1: As a student, I want to rent a textbook so that I don’t have to use a digital copy.
 ![alt text](image-5.png)
 ### Activity Diagram 2: As a student, I want to make extra money so that I can pay rent.
-![alt text](image-6.png)
+![alt text](image.png)
 ## Clickable Prototype
 [Clickable Prototype](https://www.figma.com/proto/x2JhHpZTehmD7ZdGMTlu7I/SEprojectwireframe?node-id=0-1&t=jdBQfUi0t9potZVz-1)
