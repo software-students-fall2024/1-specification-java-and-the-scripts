@@ -5,16 +5,14 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 [Alvaro Martinez](https://github.com/AlvaroMartinezM)
 
-//Git Link: https://github.com/AlvaroMartinezM
+[Natalie Ovcarov](https://github.com/nataliovcharov)
 
 [Daniel Brito](https://github.com/danny031103 )
-//Git Link: https://github.com/danny031103 
 
 [Jun Li](https://github.com/jljune9li )
-//Git Link: https://github.com/jljune9li 
 
-[Natalie Ovcarov](https://github.com/nataliovcharov)
-//Git Link: https://github.com/nataliovcharov
+
+
 
 ## Stakeholders
 
