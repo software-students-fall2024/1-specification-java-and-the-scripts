@@ -3,19 +3,18 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
-Alvaro Martinez
+[Alvaro Martinez](https://github.com/AlvaroMartinezM)
 
-Git Link: https://github.com/AlvaroMartinezM
+//Git Link: https://github.com/AlvaroMartinezM
 
-Danny brito
-Git Link: https://github.com/danny031103 
+[Daniel Brito](https://github.com/danny031103 )
+//Git Link: https://github.com/danny031103 
 
-Jun Li
-Git Link: https://github.com/jljune9li 
+[Jun Li](https://github.com/jljune9li )
+//Git Link: https://github.com/jljune9li 
 
-Natalie Ovcarov
-
-Git Link: https://github.com/nataliovcharov
+[Natalie Ovcarov](https://github.com/nataliovcharov)
+//Git Link: https://github.com/nataliovcharov
 
 ## Stakeholders
 
